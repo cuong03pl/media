@@ -1,0 +1,26 @@
+.register-input {
+    width: 100%;
+    margin-top: 10px;
+    border: solid 1.5px #eee;
+    border-radius: 8px;
+
+}
+.register-input-item {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    outline: none;
+    font-size: 1.6rem;
+    border-radius: 8px;
+
+}
+.register-input-item::placeholder {
+    font-size: 1.6rem;
+}
+
+
+.form-comment-input {
+    width: 100%;
+    padding: 8px;
+    font-size: 1.4rem;
+}

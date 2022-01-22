@@ -1,0 +1,49 @@
+/* icon header  */
+.arrow-down-icon {
+    margin-left: 8px;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+}
+
+/* icon footer */
+
+.footer-icon {
+    margin-right: 10px;
+}
+
+
+
+.home-blog-item-icon {
+    margin-right: 10px;
+}
+
+
+.achievement-icon {
+    font-size: 5rem;
+    color: #2466bd;
+}
+.header-tab-right-icon {
+    font-size: 1.6rem;
+}
+
+.header-tab-right-icon {
+    margin-right: 8px;
+}
+
+.price-1-right-content-icon {
+    font-size: 1.6rem;
+    margin-right: 10px;
+}
+
+
+.contact-overlay-icon {
+     /* padding-right: 10px; */
+}
+
+
+
+.close-icon {
+    font-size: 2rem;
+    color: white;
+}

@@ -1,0 +1,116 @@
+
+/* introduce 2 */
+
+.price-1-right-header{
+    background: #f6f6f9;
+    border: none;
+}
+.price-1-right-item {
+    border: 1px solid #eee;
+    margin-top: 20px;
+}
+.price-1-right-sub-link {
+    font-size: 1.5rem;
+}
+.price-1-right-img-item {
+    min-width: 50px;
+    width: 50px;
+    height: 42px;
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-size: contain;
+}
+.price-1-right-content-item:hover .price-1-right-content-icon, .price-1-right-content-item:hover .price-1-right-content-title{
+    color:  #e4584b;
+}
+
+
+.introduce-list {
+
+}
+.introduce-item {
+    margin-top: 40px;
+}
+.introduce-item:last-child {
+    margin-bottom: 55px;
+}
+.introduce-img {
+    position: relative;
+}
+.introduce-img-item {
+    height: 200px;
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-size: contain;
+    display: block;
+}
+.introduce-img-sub {
+    position: absolute;
+    display: flex;
+    bottom: -30px;
+    align-items: center;
+    box-shadow: 1px 1px 10px 0.5px #eee;
+    border-radius: 100px;
+    padding: 15px;
+    left: 50px;
+    background: white;
+
+}
+.introduce-img-logo-item {
+    min-width: 50px;
+    height: 50px;
+    width: 100%;
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-size: contain;
+    border-radius: 50%;
+    
+}
+.introduce-img-text {
+    font-size: 14px;
+    margin-left: 10px;
+    font-weight: 500;
+}
+.introduce-content {
+    margin-top: 60px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid black;
+}
+.introduce-header-color {
+    display: flex;
+    justify-content: space-between;
+}
+.introduce-header-color-item {
+    color: #2466bd;
+    font-weight: 700;
+    text-transform: uppercase;
+
+}
+.introduce-header-color {
+
+}
+.introduce-header {
+    font-size: 2.5rem;
+    font-weight: 700;
+
+}
+.introduce-sub {
+    font-size: 1.4rem;
+    margin-top: 14px;
+    margin-bottom: 32px;
+
+}
+.introduce-detail {
+    font-size: 1.6rem;
+    font-weight: 700;
+
+}   
+.introduce-detail:hover, .introduce-header:hover {
+    color: #e4584b;
+}
+
+
+
+
+
+                        

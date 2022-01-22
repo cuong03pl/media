@@ -1,0 +1,119 @@
+.register-button {
+    text-align: center;
+
+}
+
+.register-button-item {
+    padding: 16px 32px;
+    border: none;
+    border-radius: 20px;
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+
+.form-comment-button {
+    margin-top: 22px;
+    width: 100%;
+    background: #2466bd;
+    padding: 12px 24px;
+    border: none;
+    color: white;
+    font-size: 1.2rem;
+}
+.form-comment-button:hover {
+    background: #1D5297;
+    cursor: pointer;
+}
+
+
+
+.see-more {
+    margin-top: 42px;
+}
+.see-more-top {
+    text-align: center;
+}
+.see-more-button {
+    font-weight: 700;
+    padding: 12px 32px;
+    font-size: 1.6rem;
+    border-radius: 100px;
+    background: -webkit-gradient(linear, left top, right top, from(#bd9f67), color-stop(48%, #f4f3ad), color-stop(99%, #bd9f67));
+}
+.see-more-button:hover {
+    background: #ff2b2b;
+    color: white;
+}
+.see-more-bottom {
+    text-align: center;
+    display: block;
+    margin-top: 45px;
+    margin-bottom: 40px;
+
+}
+.see-more-bottom-item {
+    width: 210px;
+}
+
+.register-button-item {
+    
+    background: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
+    color: white;
+    outline: none;
+    cursor: pointer;
+    
+}   
+
+
+
+
+.price-left-button {
+    font-size: 1.2rem;
+    background: #b08e42;
+    text-transform: uppercase;
+    padding: 6px 24px;
+    font-weight: 700;
+    color: white;
+    border-radius: 20px;
+}
+.price-left-button:hover {
+    color: #e4584b;
+    background: white;
+    transition: all 0.3s linear;
+}
+
+
+.contact-overlay-left-button {
+        color: white;
+        padding: 13px;
+        font-size: 1.3rem;
+        border-radius: 100px;
+        margin-top: 20px;
+
+}
+
+
+.contact-overlay-right-button {
+    color: white;
+    padding: 13px;
+    font-size: 1.3rem;
+    border-radius: 100px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.button-close {
+    background: #ff4500;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 8px 12px;
+}
+.button-close:hover {
+    background: red;
+    cursor: pointer;
+}

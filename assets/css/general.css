@@ -1,0 +1,226 @@
+/*  css phan dung chung */
+
+.header-tab {
+    background: #F7F7F7;
+    padding:15px 10px;
+} 
+.header-tab-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.header-tab-left {
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: capitalize
+}
+.header-tab-right {
+    display: flex;
+    align-items: center;
+}
+.header-tab-right i {
+    margin: 0 6px;
+    font-size: 1.2rem;
+}
+.header-tab-right-text {
+    font-size: 1.4rem;
+}
+.price-1-grid {
+    margin-top: 56px !important;
+}
+.price-1-left-header {
+    font-size: 3rem;
+    font-weight: 700;
+}
+.price-1-left-sub {
+    margin-top: 5px;
+    display: flex;
+    margin-bottom: 16px;
+}
+.price-1-left-des {
+    color: #2466bd;
+    font-weight: 600;
+}
+.price-1-left-time {
+    margin: 0 10px;
+}
+.price-1-left-title{
+    margin: 12px 0;
+    font-size: 2.4rem;
+}
+.price-1-left-title-item {
+    font-size: 1.8rem;
+}
+.price-1-left-text {
+    font-size: 1.6rem;
+    line-height: 1.8;
+    margin: 12px 0;
+}
+
+.title-form {
+    padding: 20px;
+    margin-top: 30px;
+    border: 1px solid #eee;
+    
+}
+.title-form-text {
+    font-size: 3rem;
+    font-weight: 700;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 20px;
+    width: 100%;
+    display: block;
+}
+.form-comment {
+    margin-top: 20px;
+    border: 1px solid #eee;
+    padding: 20px;
+    margin-bottom: 20px;
+
+}
+.form-comment-textarea {
+    width: 100%;
+    height: 188px;
+    max-width: 100%;
+    font-size: 1.4rem;
+}
+.form-comment-row {
+    padding: 10px 0 0 0;
+}
+
+
+
+
+.table {
+    width: 100%;
+    border-left: 1px solid #dee2e6;
+    font-size: 1.6rem;
+}
+.table td, .table th {
+    border-right: 1px solid #dee2e6;
+    padding: 0.7rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+
+
+
+.price-1-right-header {
+    font-size: 1.8rem;
+    font-weight: 600;
+    padding: 18px;
+    border-bottom: 2px solid #eee;
+}
+.price-1-right-content {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    
+}
+.price-1-right-sub {
+    margin-left: 10px;
+}
+.price-1-right-sub-link {
+    font-size: 1.2rem;
+
+}
+.price-1-right-sub-link:hover {
+    color: #e4584b;
+}
+
+.price-1-right-img-item {
+    
+    height: 70px;
+    min-width: 100px;
+    max-height: 100px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+}
+
+.price-1-right-content-item {
+    padding: 10px;
+}
+.price-1-right-content-item:hover .price-1-right-content-icon, .price-1-right-content-item:hover .price-1-right-content-title{
+    color:  #2466bd;
+}
+.price-1-right-content-title {
+    font-size: 1.3rem;
+   
+}
+.tags-item {
+    margin-top: 14px;
+    margin-left: 14px;
+    background: #eef2f8;
+    font-size: 1.4rem;
+    padding: 14px;
+}
+
+
+
+/* contact-overlay */
+
+.contact-overlay-left {
+    position: fixed;
+    bottom: 0;
+    z-index: 100;
+    padding: 0 10px;
+    left: 10px;
+    margin-bottom: 10px;
+}
+
+
+.contact-overlay-right {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    z-index: 100;
+    padding: 0 10px;
+    right: 10px;
+    margin-bottom: 10px;
+}
+.contact-overlay-right {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    z-index: 100;
+    padding: 0 10px;
+    right: 10px;
+}
+.contact-overlay-text {
+        color: white;
+        font-weight: 500;
+}
+.contact-overlay-img {
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 40px;
+    width: 40px;
+    display: block;
+}
+.contact-overlay-bgr-red {
+    background: #C90A23;
+}
+.contact-overlay-bgr-yellow {
+    background: #FD8E0A;
+}
+.contact-overlay-bgr-blue {
+    background: #0099D1;
+    border-radius: 0;
+}
+.contact-overlay-bgr-blue .contact-overlay-icon {
+    border-right: 1px solid white;
+    padding: 0 5px;
+}
+.contact-overlay-bgr-blue .contact-overlay-text {
+    padding-left: 5px;
+}
+
+
+
+
+
